@@ -1,0 +1,17 @@
+{
+  "name": "compare-hash-resemble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "node-resemble-js": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compare-resemble": "node compare-resemble.js",
+    "compare-hash": "node compare-hash.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
